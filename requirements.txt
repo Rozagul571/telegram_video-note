@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+aiogram==3.13.0
+python-dotenv
